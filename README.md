@@ -1,7 +1,7 @@
 This project is inspired by Clueso.io and is not affiliated with or endorsed by Clueso.
 
 
-# Clueso-Inspired AI Video & Documentation SaaS
+# SmartDoc-AI [AI Video & Documentation SaaS Platform]
 
 This project is a production-ready SaaS web application inspired by Clueso.io.
 It demonstrates how AI can be used to transform screen recordings into
