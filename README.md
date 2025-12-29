@@ -34,9 +34,6 @@ real-time video processing pipelines.
 - Database: Relational DB with Row Level Security
 - AI: Mocked AI workflows (OpenAI-style integration ready)
 
-## Demo Video
-(Add your demo video link here)
-
 ## Running the Project
-(Project runs via Bolt environment)
+https://694c06dde2c7fa2e7e5b150b--cool-clafoutis-8a2246.netlify.app/
 
